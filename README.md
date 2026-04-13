@@ -22,8 +22,6 @@ This project was created as my **CS50x Final Project** ❤️
 ✅ Interactive menu with categories 🍔🥤🍰  
 ✅ Smooth animations ✨  
 ✅ Reservation form with basic validation 📝  
-✅ Online order form 🚀  
-✅ Clean and modern navigation 🧭  
 
 ---
 
